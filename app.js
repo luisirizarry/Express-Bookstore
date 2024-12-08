@@ -1,6 +1,4 @@
 /** Express app for bookstore. */
-
-
 const express = require("express");
 const app = express();
 
